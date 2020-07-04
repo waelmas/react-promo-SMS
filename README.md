@@ -7,4 +7,5 @@ Simple React & Nodejs app that asks the user for a phone number, and uses Twilio
 Replace the .env with your Twilio account credentials.
 
 $ npm install
+
 $ npm run server
